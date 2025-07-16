@@ -7,8 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation & Setup](#installation--setup)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Challenges & Learnings](#challenges--learnings)
 - [Contact](#contact)
 
 ## Overview
